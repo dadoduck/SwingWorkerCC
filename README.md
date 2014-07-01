@@ -1,1 +1,4 @@
-Swing Worker... interfaccia swing che simula le operazioni su un cc... le operazioni vengono fatte su thread separato per non congelaro l'interfaccia utente principale
+SwingWorkerCC
+================
+
+SwingWorkerImage è un'esercitazione ripresa dall'indirizzo: http://www.dis.uniroma1.it/~arusso/didattica/ps1314/swingthread.pdf
